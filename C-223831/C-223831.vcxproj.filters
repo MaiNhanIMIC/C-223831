@@ -18,5 +18,19 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ProString.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitCoin.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ProString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitCoin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

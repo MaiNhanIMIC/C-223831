@@ -1,2 +1,5 @@
 ﻿  main.c
+c:\users\maitr\source\repos\c-223831\c-223831\main.c(17): warning C4028: formal parameter 1 different from declaration
+c:\users\maitr\source\repos\c-223831\c-223831\main.c(19): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\users\maitr\source\repos\c-223831\c-223831\main.c(19): warning C4024: 'ten_con_tro_ham': different types for formal and actual parameter 1
   C-223831.vcxproj -> C:\Users\maitr\source\repos\C-223831\Debug\C-223831.exe
